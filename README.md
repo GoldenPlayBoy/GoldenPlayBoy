@@ -1,7 +1,10 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&duration=2800&pause=2000&color=e50914&center=true&vCenter=true&width=940&lines=Welcome+to+my+Profile ,from GoldenPB 👋" align="middle" alt="HWelcome+to+my+Profile ,from GoldenPB 👋" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&duration=2800&pause=2000&color=e50914&center=true&vCenter=true&width=940&lines=Welcome+to+my+Profile ,from GoldenPB 👋" align="middle" alt="Welcome+to+my+Profile ,from GoldenPB 👋" width="100%"/>
     
 <br/><br/>
-
+A **Full Stack Developer**  and an advocate for building **responsive**, **accessible** and **inclusive** digital products and experiences for the web based in odesa, Ukraine. 
+- Open to project collaborations
+- You can reach me through: <a href="mailto:worolkeith@gmail.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a> 
+- **NOTE** : You can **fork** and **contribute** to any of the projects <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" align="center" />
 
 
 <h2 font-weight="bold">𝐒ervices 𝐒𝐞𝐭</h2>
